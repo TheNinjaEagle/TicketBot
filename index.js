@@ -9,7 +9,7 @@ mysql = require("mysql");
 var con = mysql.createPool({
     host: "remotemysql.com",
     user: "qfhvpazE4P",
-    password: "aCnyhf1yHw",
+    password: "anyhf1yHw",
     database: "qfhvpazE4P"
 });
 
